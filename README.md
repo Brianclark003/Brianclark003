@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at Parul University.
-- 💼 &nbsp; Working for <a href="https://github.com/orpheusdark">
+- 💼 &nbsp; Working for [orpheusdark.](https://github.com/orpheusdark)
 - 🌱 &nbsp; Learning more about Web Technologies, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Application Developement and Graphics Design as hobbies/side hustles.
 
