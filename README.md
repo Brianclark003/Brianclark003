@@ -1,26 +1,12 @@
-- 👋 Hi, I’m @Brian Cark
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Brianclark003/Brianclark003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Brian Clark%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Brian Clark.</h2>
-
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Computer Engineering at Parul University.
+- 💼 &nbsp; Working for @orpheusdark.
+- 🌱 &nbsp; Learning more about Web Technologies, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Application Developement and Graphics Design as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -54,9 +40,9 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/Brianclark003">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brianclark003&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brianclark003&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -64,10 +50,9 @@ You can click the Preview link to take a look at your changes.
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.Brian Clarkvsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Brian Clarkvsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brian Clark%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/Brian Clarkvs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Brian Clarkvs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.Brian Clark.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Brian Clark.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/orpheusdark/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orpheusdark-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:brian.clark.wrk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-brian.clark.wrk@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [BrainClark](https://github.com/Brianclark003)
