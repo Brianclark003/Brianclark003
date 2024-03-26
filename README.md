@@ -36,9 +36,9 @@
 
 <br/>
 
-<a href="https://github.com/Brianclark003">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brianclark003&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brianclark003&theme=buefy&layout=compact" />
+<a href="https://github.com/Brianclark01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brianclark01&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brianclark01&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -51,4 +51,4 @@
 <a href="mailto:brian.clark.wrk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-brian.clark.wrk@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [BrainClark](https://github.com/Brianclark003)
+⭐️ From [BrainClark](https://github.com/Brianclark01)
